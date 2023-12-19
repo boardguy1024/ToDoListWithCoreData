@@ -1,3 +1,5 @@
 # CoreData+SwiftUIを使って簡単なTODOListを作成
 
-![Uploading Simulator Screenshot - iPhone 15 Pro - 2023-12-19 at 11.36.51.png…]()
+| ScreenShot |
+| --- |
+| <img src=https://github.com/boardguy1024/ToDoListWithCoreData/assets/13864469/b94459a6-fd93-4a39-9c7e-ba8bf377d17f> |
