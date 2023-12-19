@@ -156,7 +156,6 @@ struct TaskRow: View {
             .frame(maxWidth: .infinity, alignment: .leading)
         }
         .padding(10)
-        .background(task.isCompleted ? .blue.opacity(0.1) : .red.opacity(0.1))
         .onAppear {
             if (task.title ?? "").isEmpty {
                 showKeyboard = true
